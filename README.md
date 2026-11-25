@@ -131,6 +131,19 @@ An AI-focused web application project with user authentication and modern applic
 </p>
 
 ---
+---
+
+## 🔥 GitHub Contribution Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=ahebabshamilbaryaw-tech&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
+---
+
 
 
 
