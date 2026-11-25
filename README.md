@@ -112,6 +112,26 @@ An AI-focused web application project with user authentication and modern applic
 </p>
 
 ---
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ahebabshamilbaryaw-tech&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Ahebab's GitHub Statistics"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahebabshamilbaryaw-tech&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Most Used Programming Languages"
+  />
+</p>
+
+---
+
 
 
 
