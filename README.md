@@ -91,6 +91,28 @@ An AI-focused web application project with user authentication and modern applic
 - Build real-world web applications.
 - Learn AI integration and modern software architecture.
 - Contribute to open-source projects.
+- ---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:ahebabshamilbaryaw@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/ahebab-shamil-952b90401">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://t.me/abdullah0266">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</p>
+
+<p align="center">
+  💬 Feel free to connect with me for collaboration, learning, and software development discussions!
+</p>
+
+---
+
 
 
 
