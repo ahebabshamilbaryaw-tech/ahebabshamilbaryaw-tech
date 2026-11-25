@@ -59,5 +59,40 @@ I'm passionate about building modern web applications, solving problems, and exp
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+---
+
+## 🚀 Featured Projects
+
+### 🤖 ChatGPT Clone
+A full-stack chatbot application with conversation management, database integration, and AI-powered features.
+
+**Technologies:** React.js, Node.js, Express.js, MySQL
+
+### 🏡 Dream Home
+A modern real estate website built with React and Tailwind CSS.
+
+**Technologies:** React.js, JavaScript, Tailwind CSS
+
+### 🎬 Netflix Clone
+A movie streaming interface inspired by Netflix, using movie data from TMDB.
+
+**Technologies:** React.js, JavaScript, TMDB API
+
+### 💬 AI Forum
+An AI-focused web application project with user authentication and modern application architecture.
+
+**Technologies:** React.js, Node.js, Express.js
+
+---
+
+## 🎯 My Current Goals
+
+- Improve my Full-Stack Development skills.
+- Build real-world web applications.
+- Learn AI integration and modern software architecture.
+- Contribute to open-source projects.
+
+
+
 
 ---
