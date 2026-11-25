@@ -151,3 +151,15 @@ An AI-focused web application project with user authentication and modern applic
 
 
 ---
+---
+
+## 👀 Profile Visitors
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=ahebabshamilbaryaw-tech&label=Profile%20Views&color=0e75b6&style=for-the-badge"
+    alt="Profile Views"
+  />
+</p>
+
+---
