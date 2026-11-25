@@ -20,3 +20,22 @@
 <p align="center">
   Dream • Learn • Build • Grow 🚀
 </p>
+
+---
+
+## 👨‍💻 About Me
+
+Assalamu Alaikum! 👋
+
+I'm **Ahebab Shamil**, an Information Systems student at **Wolkite University** and an aspiring Full-Stack Developer.
+
+I'm passionate about building modern web applications, solving problems, and exploring new technologies.
+
+- 🎓 Information Systems Student
+- 💻 Learning JavaScript, React.js, and Node.js
+- 🚀 Building real-world web development projects
+- 🤖 Interested in AI-powered applications
+- 🌱 Always learning and improving my development skills
+- 🎯 Goal: Become a Professional Full-Stack Developer
+
+---
