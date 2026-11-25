@@ -163,3 +163,23 @@ An AI-focused web application project with user authentication and modern applic
 </p>
 
 ---
+
+<p align="center">
+  ### ✨ Thanks for Visiting My GitHub Profile!
+</p>
+
+<p align="center">
+  <b>Dream • Learn • Build • Grow</b>
+</p>
+
+<p align="center">
+  Let's connect, collaborate, and build something amazing together! 🚀
+</p>
+
+<p align="center">
+  <i>"Every expert was once a beginner."</i>
+</p>
+
+---
+
+---
